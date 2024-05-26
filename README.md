@@ -1,2 +1,2 @@
-# arcgis_js_api
-A code repo for arcgis js api
+# buffer_api
+# buffer_api_arcgis
